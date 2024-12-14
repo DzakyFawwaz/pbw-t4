@@ -60,6 +60,6 @@ if (isset($_POST['save'])) {
         <input type="date" name="birth_date" value="<?= $birth_date ?>" required><br>
         <button type="submit" name="save">Simpan</button>
     </form>
-    <a href="read.php">Kembali</a>
+    <a href="index.php">Kembali</a>
 </body>
 </html>

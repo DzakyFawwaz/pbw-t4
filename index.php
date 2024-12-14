@@ -30,7 +30,7 @@ $result = mysqli_query($conn, "SELECT * FROM users");
             <td><?= $row['age'] ?></td>
             <td><?= $row['birth_date'] ?></td>
             <td>
-                <a href="create_update.php?id=<?= $row['id'] ?>">Edit</a>
+                <a href="add_edit_user.php?id=<?= $row['id'] ?>">Edit</a>
                 <a href="delete.php?id=<?= $row['id'] ?>" onclick="return confirm('Yakin ingin menghapus?')">Hapus</a>
             </td>
         </tr>

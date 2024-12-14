@@ -14,7 +14,7 @@ $result = mysqli_query($conn, "SELECT * FROM users");
 </head>
 <body>
     <h2>Daftar Pengguna</h2>
-    <a href="create_update.php">Tambah Data</a>
+    <a href="add_edit_user.php">Tambah Data</a>
     <table border="1">
         <tr>
             <th>Nama</th>

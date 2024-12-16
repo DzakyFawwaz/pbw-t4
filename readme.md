@@ -3,4 +3,4 @@
 3. jalankan file `index.php` pada browser anda dengan cara mengakses localhost pada url tab browser anda
 4. tampilan akan sesuai dengan gambar yang ada di folder `dokumentasi/read.png`
 
-!(read.png)[https://github.com/DzakyFawwaz/pbw-t4/blob/main/dokumentasi/read.png?raw=true]
+![read.png](https://github.com/DzakyFawwaz/pbw-t4/blob/main/dokumentasi/read.png?raw=true)
